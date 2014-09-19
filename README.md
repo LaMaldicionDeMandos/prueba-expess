@@ -11,3 +11,6 @@ Instala las dependencias
 	sudo npm install -g express-generator
 instala una aplicacion que es un template para generar aplicaciones express
 
+	express -css stylus prueba-stylus
+Crea un template de aplicacion usando stylus + jade, por que jade? no se. Jade es un template para generacion de html
+
